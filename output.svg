@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1500" height="800">
+
+<defs>
+<radialGradient 
+id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" >
+<stop offset="0%" stop-color="rgb(135,172,200)" stop-opacity="1" /> 
+<stop offset="100%" stop-color="rgb(3,60,145)" stop-opacity="1" />
+</radialGradient> 
+</defs>
+
+<ellipse cx="750" cy="533" rx="1500" ry="800" fill="url(#grad1)" />
+<polygon points=" 714,86 714,74 693,80" style="fill:rgb(251,226,55)" />
+<polygon points=" 786,86 786,74 807,80" style="fill:rgb(251,226,55)" />
+<polygon points=" 756,44 744,44 750,23" style="fill:rgb(251,226,55)" />
+<polygon points=" 756,116 744,116 750,137" style="fill:rgb(251,226,55)" />
+<polygon points=" 720,59 729,50 711,41" style="fill:rgb(251,226,55)" />
+<polygon points=" 780,101 771,110 789,119" style="fill:rgb(251,226,55)" />
+<polygon points=" 720,101 729,110 711,119" style="fill:rgb(251,226,55)" />
+<polygon points=" 771,50 780,59 789,41" style="fill:rgb(251,226,55)" />
+<circle cx="750" cy="80" r="30" fill="rgb(251,226,55)" />
+<ellipse cx="1990.14" cy="140" rx="19" ry="9.5" fill="rgb(98,98,98)" />
+<polygon points=" 2009.14,140 2005.91,144.75 2012.37,144.75" style="fill:orange" />
+<ellipse cx="1971.14" cy="140" rx="3.16667" ry="4.75" fill="rgb(98,98,98)" />
+<ellipse cx="1998.12" cy="144.75" rx="4.75" ry="12.54" fill="rgb(98,98,98)" />
+<ellipse cx="1987.1" cy="147.98" rx="4.75" ry="12.54" fill="rgb(98,98,98)" />
+<circle cx="2002.68" cy="138.48" r="1.52" fill="dark" />
+<ellipse cx="1819.24" cy="105" rx="30" ry="15" fill="rgb(217,217,217)" />
+<polygon points=" 1849.24,105 1844.14,112.5 1854.34,112.5" style="fill:orange" />
+<ellipse cx="1789.24" cy="105" rx="5" ry="7.5" fill="rgb(217,217,217)" />
+<ellipse cx="1831.84" cy="97.5" rx="7.5" ry="19.8" fill="rgb(217,217,217)" />
+<ellipse cx="1814.44" cy="92.4" rx="7.5" ry="19.8" fill="rgb(217,217,217)" />
+<circle cx="1839.04" cy="102.6" r="2.4" fill="dark" />
+<ellipse cx="1253.72" cy="108" rx="30" ry="15" fill="rgb(139,139,139)" />
+<polygon points=" 1223.72,108 1228.82,115.5 1218.62,115.5" style="fill:orange" />
+<ellipse cx="1283.72" cy="108" rx="5" ry="7.5" fill="rgb(139,139,139)" />
+<ellipse cx="1241.12" cy="115.5" rx="7.5" ry="19.8" fill="rgb(139,139,139)" />
+<ellipse cx="1258.52" cy="120.6" rx="7.5" ry="19.8" fill="rgb(139,139,139)" />
+<circle cx="1233.92" cy="105.6" r="2.4" fill="dark" />
+<ellipse cx="1230.87" cy="1" rx="29" ry="14.5" fill="rgb(130,130,130)" />
+<polygon points=" 1259.87,1 1254.94,8.25 1264.8,8.25" style="fill:orange" />
+<ellipse cx="1201.87" cy="1" rx="4.83333" ry="7.25" fill="rgb(130,130,130)" />
+<ellipse cx="1243.05" cy="-6.25" rx="7.25" ry="19.14" fill="rgb(130,130,130)" />
+<ellipse cx="1226.23" cy="-11.18" rx="7.25" ry="19.14" fill="rgb(130,130,130)" />
+<circle cx="1250.01" cy="-1.32" r="2.32" fill="dark" />
+<ellipse cx="1414.98" cy="51" rx="16" ry="8" fill="rgb(152,152,152)" />
+<polygon points=" 1430.98,51 1428.26,55 1433.7,55" style="fill:orange" />
+<ellipse cx="1398.98" cy="51" rx="2.66667" ry="4" fill="rgb(152,152,152)" />
+<ellipse cx="1421.7" cy="47" rx="4" ry="10.56" fill="rgb(152,152,152)" />
+<ellipse cx="1412.42" cy="44.28" rx="4" ry="10.56" fill="rgb(152,152,152)" />
+<circle cx="1425.54" cy="49.72" r="1.28" fill="dark" />
+<ellipse cx="1199.62" cy="130" rx="28" ry="14" fill="rgb(103,103,103)" />
+<polygon points=" 1227.62,130 1222.86,137 1232.38,137" style="fill:orange" />
+<ellipse cx="1171.62" cy="130" rx="4.66667" ry="7" fill="rgb(103,103,103)" />
+<ellipse cx="1211.38" cy="137" rx="7" ry="18.48" fill="rgb(103,103,103)" />
+<ellipse cx="1195.14" cy="141.76" rx="7" ry="18.48" fill="rgb(103,103,103)" />
+<circle cx="1218.1" cy="127.76" r="2.24" fill="dark" />
+<ellipse cx="838.243" cy="42" rx="25" ry="12.5" fill="rgb(86,86,86)" />
+<polygon points=" 813.243,42 817.493,48.25 808.993,48.25" style="fill:orange" />
+<ellipse cx="863.243" cy="42" rx="4.16667" ry="6.25" fill="rgb(86,86,86)" />
+<ellipse cx="827.743" cy="35.75" rx="6.25" ry="16.5" fill="rgb(86,86,86)" />
+<ellipse cx="842.243" cy="31.5" rx="6.25" ry="16.5" fill="rgb(86,86,86)" />
+<circle cx="821.743" cy="40" r="2" fill="dark" />
+<ellipse cx="734.771" cy="29" rx="18" ry="9" fill="rgb(87,87,87)" />
+<polygon points=" 716.771,29 719.831,33.5 713.711,33.5" style="fill:orange" />
+<ellipse cx="752.771" cy="29" rx="3" ry="4.5" fill="rgb(87,87,87)" />
+<ellipse cx="727.211" cy="33.5" rx="4.5" ry="11.88" fill="rgb(87,87,87)" />
+<ellipse cx="737.651" cy="36.56" rx="4.5" ry="11.88" fill="rgb(87,87,87)" />
+<circle cx="722.891" cy="27.56" r="1.44" fill="dark" />
+<ellipse cx="590.609" cy="29" rx="28" ry="14" fill="rgb(121,121,121)" />
+<polygon points=" 618.609,29 613.849,36 623.369,36" style="fill:orange" />
+<ellipse cx="562.609" cy="29" rx="4.66667" ry="7" fill="rgb(121,121,121)" />
+<ellipse cx="602.369" cy="22" rx="7" ry="18.48" fill="rgb(121,121,121)" />
+<ellipse cx="586.129" cy="17.24" rx="7" ry="18.48" fill="rgb(121,121,121)" />
+<circle cx="609.089" cy="26.76" r="2.24" fill="dark" />
+<ellipse cx="726.132" cy="82" rx="21" ry="10.5" fill="rgb(191,191,191)" />
+<polygon points=" 747.132,82 743.562,87.25 750.702,87.25" style="fill:orange" />
+<ellipse cx="705.132" cy="82" rx="3.5" ry="5.25" fill="rgb(191,191,191)" />
+<ellipse cx="734.952" cy="87.25" rx="5.25" ry="13.86" fill="rgb(191,191,191)" />
+<ellipse cx="722.772" cy="90.82" rx="5.25" ry="13.86" fill="rgb(191,191,191)" />
+<circle cx="739.992" cy="80.32" r="1.68" fill="dark" />
+<ellipse cx="72.846" cy="8" rx="23" ry="11.5" fill="rgb(197,197,197)" />
+<polygon points=" 95.846,8 91.936,13.75 99.756,13.75" style="fill:orange" />
+<ellipse cx="49.846" cy="8" rx="3.83333" ry="5.75" fill="rgb(197,197,197)" />
+<ellipse cx="82.506" cy="13.75" rx="5.75" ry="15.18" fill="rgb(197,197,197)" />
+<ellipse cx="69.166" cy="17.66" rx="5.75" ry="15.18" fill="rgb(197,197,197)" />
+<circle cx="88.026" cy="6.16" r="1.84" fill="dark" />
+<ellipse cx="365.87" cy="146" rx="20" ry="10" fill="rgb(223,223,223)" />
+<polygon points=" 385.87,146 382.47,151 389.27,151" style="fill:orange" />
+<ellipse cx="345.87" cy="146" rx="3.33333" ry="5" fill="rgb(223,223,223)" />
+<ellipse cx="374.27" cy="151" rx="5" ry="13.2" fill="rgb(223,223,223)" />
+<ellipse cx="362.67" cy="154.4" rx="5" ry="13.2" fill="rgb(223,223,223)" />
+<circle cx="379.07" cy="144.4" r="1.6" fill="dark" />
+<ellipse cx="1600.12" cy="72" rx="27" ry="13.5" fill="rgb(147,147,147)" />
+<polygon points=" 1573.12,72 1577.71,78.75 1568.53,78.75" style="fill:orange" />
+<ellipse cx="1627.12" cy="72" rx="4.5" ry="6.75" fill="rgb(147,147,147)" />
+<ellipse cx="1588.78" cy="78.75" rx="6.75" ry="17.82" fill="rgb(147,147,147)" />
+<ellipse cx="1604.44" cy="83.34" rx="6.75" ry="17.82" fill="rgb(147,147,147)" />
+<circle cx="1582.3" cy="69.84" r="2.16" fill="dark" />
+<ellipse cx="1895.08" cy="23" rx="30" ry="15" fill="rgb(234,234,234)" />
+<polygon points=" 1925.08,23 1919.98,30.5 1930.18,30.5" style="fill:orange" />
+<ellipse cx="1865.08" cy="23" rx="5" ry="7.5" fill="rgb(234,234,234)" />
+<ellipse cx="1907.68" cy="30.5" rx="7.5" ry="19.8" fill="rgb(234,234,234)" />
+<ellipse cx="1890.28" cy="35.6" rx="7.5" ry="19.8" fill="rgb(234,234,234)" />
+<circle cx="1914.88" cy="20.6" r="2.4" fill="dark" />
+<ellipse cx="1952.94" cy="111" rx="30" ry="15" fill="rgb(187,187,187)" />
+<polygon points=" 1982.94,111 1977.84,118.5 1988.04,118.5" style="fill:orange" />
+<ellipse cx="1922.94" cy="111" rx="5" ry="7.5" fill="rgb(187,187,187)" />
+<ellipse cx="1965.54" cy="118.5" rx="7.5" ry="19.8" fill="rgb(187,187,187)" />
+<ellipse cx="1948.14" cy="123.6" rx="7.5" ry="19.8" fill="rgb(187,187,187)" />
+<circle cx="1972.74" cy="108.6" r="2.4" fill="dark" />
+<ellipse cx="1860.43" cy="64" rx="23" ry="11.5" fill="rgb(131,131,131)" />
+<polygon points=" 1883.43,64 1879.52,69.75 1887.34,69.75" style="fill:orange" />
+<ellipse cx="1837.43" cy="64" rx="3.83333" ry="5.75" fill="rgb(131,131,131)" />
+<ellipse cx="1870.09" cy="69.75" rx="5.75" ry="15.18" fill="rgb(131,131,131)" />
+<ellipse cx="1856.75" cy="73.66" rx="5.75" ry="15.18" fill="rgb(131,131,131)" />
+<circle cx="1875.61" cy="62.16" r="1.84" fill="dark" />
+<ellipse cx="1195.79" cy="176" rx="20" ry="10" fill="rgb(129,129,129)" />
+<polygon points=" 1175.79,176 1179.19,181 1172.39,181" style="fill:orange" />
+<ellipse cx="1215.79" cy="176" rx="3.33333" ry="5" fill="rgb(129,129,129)" />
+<ellipse cx="1187.39" cy="181" rx="5" ry="13.2" fill="rgb(129,129,129)" />
+<ellipse cx="1198.99" cy="184.4" rx="5" ry="13.2" fill="rgb(129,129,129)" />
+<circle cx="1182.59" cy="174.4" r="1.6" fill="dark" />
+<ellipse cx="1327.32" cy="93" rx="23" ry="11.5" fill="rgb(117,117,117)" />
+<polygon points=" 1304.32,93 1308.23,98.75 1300.41,98.75" style="fill:orange" />
+<ellipse cx="1350.32" cy="93" rx="3.83333" ry="5.75" fill="rgb(117,117,117)" />
+<ellipse cx="1317.66" cy="87.25" rx="5.75" ry="15.18" fill="rgb(117,117,117)" />
+<ellipse cx="1331" cy="83.34" rx="5.75" ry="15.18" fill="rgb(117,117,117)" />
+<circle cx="1312.14" cy="91.16" r="1.84" fill="dark" />
+<ellipse cx="533.325" cy="124" rx="29" ry="14.5" fill="rgb(135,135,135)" />
+<polygon points=" 504.325,124 509.255,131.25 499.395,131.25" style="fill:orange" />
+<ellipse cx="562.325" cy="124" rx="4.83333" ry="7.25" fill="rgb(135,135,135)" />
+<ellipse cx="521.145" cy="131.25" rx="7.25" ry="19.14" fill="rgb(135,135,135)" />
+<ellipse cx="537.965" cy="136.18" rx="7.25" ry="19.14" fill="rgb(135,135,135)" />
+<circle cx="514.185" cy="121.68" r="2.32" fill="dark" />
+<ellipse cx="851.789" cy="145" rx="26" ry="13" fill="rgb(191,191,191)" />
+<polygon points=" 877.789,145 873.369,151.5 882.209,151.5" style="fill:orange" />
+<ellipse cx="825.789" cy="145" rx="4.33333" ry="6.5" fill="rgb(191,191,191)" />
+<ellipse cx="862.709" cy="138.5" rx="6.5" ry="17.16" fill="rgb(191,191,191)" />
+<ellipse cx="847.629" cy="134.08" rx="6.5" ry="17.16" fill="rgb(191,191,191)" />
+<circle cx="868.949" cy="142.92" r="2.08" fill="dark" />
+<ellipse cx="497.809" cy="163" rx="21" ry="10.5" fill="rgb(134,134,134)" />
+<polygon points=" 476.809,163 480.379,168.25 473.239,168.25" style="fill:orange" />
+<ellipse cx="518.809" cy="163" rx="3.5" ry="5.25" fill="rgb(134,134,134)" />
+<ellipse cx="488.989" cy="168.25" rx="5.25" ry="13.86" fill="rgb(134,134,134)" />
+<ellipse cx="501.169" cy="171.82" rx="5.25" ry="13.86" fill="rgb(134,134,134)" />
+<circle cx="483.949" cy="161.32" r="1.68" fill="dark" />
+<ellipse cx="424.111" cy="98" rx="26" ry="13" fill="rgb(102,102,102)" />
+<polygon points=" 398.111,98 402.531,104.5 393.691,104.5" style="fill:orange" />
+<ellipse cx="450.111" cy="98" rx="4.33333" ry="6.5" fill="rgb(102,102,102)" />
+<ellipse cx="413.191" cy="104.5" rx="6.5" ry="17.16" fill="rgb(102,102,102)" />
+<ellipse cx="428.271" cy="108.92" rx="6.5" ry="17.16" fill="rgb(102,102,102)" />
+<circle cx="406.951" cy="95.92" r="2.08" fill="dark" />
+<ellipse cx="19.396" cy="61" rx="20" ry="10" fill="rgb(211,211,211)" />
+<polygon points=" 39.396,61 35.996,66 42.796,66" style="fill:orange" />
+<ellipse cx="-0.604004" cy="61" rx="3.33333" ry="5" fill="rgb(211,211,211)" />
+<ellipse cx="27.796" cy="66" rx="5" ry="13.2" fill="rgb(211,211,211)" />
+<ellipse cx="16.196" cy="69.4" rx="5" ry="13.2" fill="rgb(211,211,211)" />
+<circle cx="32.596" cy="59.4" r="1.6" fill="dark" />
+<ellipse cx="142.629" cy="109" rx="27" ry="13.5" fill="rgb(173,173,173)" />
+<polygon points=" 115.629,109 120.219,115.75 111.039,115.75" style="fill:orange" />
+<ellipse cx="169.629" cy="109" rx="4.5" ry="6.75" fill="rgb(173,173,173)" />
+<ellipse cx="131.289" cy="115.75" rx="6.75" ry="17.82" fill="rgb(173,173,173)" />
+<ellipse cx="146.949" cy="120.34" rx="6.75" ry="17.82" fill="rgb(173,173,173)" />
+<circle cx="124.809" cy="106.84" r="2.16" fill="dark" />
+<defs>
+<linearGradient 
+id="gradMer" x1="0%" y1="30%" x2="0%" y2="5%" >
+<stop offset="0%" stop-color="rgb(0,0,62)" stop-opacity="1" /> 
+<stop offset="100%" stop-color="rgb(0,0,236)" stop-opacity="1" />
+</linearGradient> 
+</defs>
+
+<polygon points=" 1500,266 0,266 1500,800" style="fill:url(#gradMer)" />
+<polygon points=" 0,800 0,266 1500,800" style="fill:url(#gradMer)" />
+<line x1="1500" y1="800" x2="0" y2="266" stroke="url(#gradMer)" />
+<defs>
+<radialGradient 
+id="gradSable" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" >
+<stop offset="0%" stop-color="rgb(205,191,18)" stop-opacity="1" /> 
+<stop offset="100%" stop-color="rgb(138,129,12)" stop-opacity="1" />
+</radialGradient> 
+</defs>
+
+<ellipse cx="750" cy="800" rx="1000" ry="133" fill="url(#gradSable)" />
+<ellipse cx="471.278" cy="376" rx="43" ry="31" fill="rgb(9,186,0)" />
+<polygon points=" 439.028,376 417.528,414.75 417.528,337.25" style="fill:rgb(9,186,0)" />
+<circle cx="505.678" cy="376" r="2.15" fill="black" />
+<polygon points=" 511,231 459,231 511,266" style="fill:rgb(92,46,0)" />
+<polygon points=" 459,266 459,231 511,266" style="fill:rgb(92,46,0)" />
+<line x1="511" y1="266" x2="459" y2="231" stroke="rgb(92,46,0)" />
+<polygon points=" 510,266 510,231 537,231" style="fill:rgb(92,46,0)" />
+<polygon points=" 459,266 459,231 433,231" style="fill:rgb(92,46,0)" />
+<line x1="492.8" y1="231" x2="492.8" y2="91" stroke="rgb(92,46,0)" />
+<line x1="498" y1="231" x2="498" y2="91" stroke="rgb(92,46,0)" />
+<polygon points=" 492.8,222.25 492.8,91 427.8,222.25" style="fill:rgb(158,109,184)" />
+<polygon points=" 498,222.25 498,119 550,222.25" style="fill:rgb(184,158,109)" />
+<polygon points=" 498,112 498,91 524,101.5" style="fill:rgb(109,184,158)" />
+<ellipse cx="1025.83" cy="394" rx="44" ry="25" fill="rgb(24,148,0)" />
+<polygon points=" 992.834,394 970.834,425.25 970.834,362.75" style="fill:rgb(24,148,0)" />
+<circle cx="1061.03" cy="394" r="2.2" fill="black" />
+<ellipse cx="946.694" cy="425" rx="37" ry="10" fill="rgb(56,50,0)" />
+<polygon points=" 974.444,425 992.944,437.5 992.944,412.5" style="fill:rgb(56,50,0)" />
+<circle cx="917.094" cy="425" r="1.85" fill="black" />
+<ellipse cx="208.806" cy="427" rx="52" ry="30" fill="rgb(143,19,0)" />
+<polygon points=" 247.806,427 273.806,464.5 273.806,389.5" style="fill:rgb(143,19,0)" />
+<circle cx="167.206" cy="427" r="2.6" fill="black" />
+<ellipse cx="1739.55" cy="430" rx="27" ry="44" fill="rgb(89,44,0)" />
+<polygon points=" 1719.3,430 1705.8,485 1705.8,375" style="fill:rgb(89,44,0)" />
+<circle cx="1761.15" cy="430" r="1.35" fill="black" />
+<ellipse cx="805.612" cy="447" rx="18" ry="27" fill="rgb(234,111,0)" />
+<polygon points=" 819.112,447 828.112,480.75 828.112,413.25" style="fill:rgb(234,111,0)" />
+<circle cx="791.212" cy="447" r="0.9" fill="black" />
+<ellipse cx="1959.23" cy="450" rx="44" ry="17" fill="rgb(31,22,0)" />
+<polygon points=" 1926.23,450 1904.23,471.25 1904.23,428.75" style="fill:rgb(31,22,0)" />
+<circle cx="1994.43" cy="450" r="2.2" fill="black" />
+<ellipse cx="1233.66" cy="451" rx="35" ry="43" fill="rgb(147,226,0)" />
+<polygon points=" 1207.41,451 1189.91,504.75 1189.91,397.25" style="fill:rgb(147,226,0)" />
+<circle cx="1261.66" cy="451" r="1.75" fill="black" />
+<ellipse cx="1570.52" cy="461" rx="18" ry="17" fill="rgb(116,13,0)" />
+<polygon points=" 1557.02,461 1548.02,482.25 1548.02,439.75" style="fill:rgb(116,13,0)" />
+<circle cx="1584.92" cy="461" r="0.9" fill="black" />
+<ellipse cx="380.696" cy="468" rx="14" ry="21" fill="rgb(43,16,0)" />
+<polygon points=" 370.196,468 363.196,494.25 363.196,441.75" style="fill:rgb(43,16,0)" />
+<circle cx="391.896" cy="468" r="0.7" fill="black" />
+<ellipse cx="141.733" cy="525" rx="18" ry="38" fill="rgb(137,20,0)" />
+<polygon points=" 128.233,525 119.233,572.5 119.233,477.5" style="fill:rgb(137,20,0)" />
+<circle cx="156.133" cy="525" r="0.9" fill="black" />
+<ellipse cx="522.003" cy="556" rx="50" ry="10" fill="rgb(153,204,0)" />
+<polygon points=" 484.503,556 459.503,568.5 459.503,543.5" style="fill:rgb(153,204,0)" />
+<circle cx="562.003" cy="556" r="2.5" fill="black" />
+<ellipse cx="1882.94" cy="567" rx="50" ry="33" fill="rgb(68,216,0)" />
+<polygon points=" 1845.44,567 1820.44,608.25 1820.44,525.75" style="fill:rgb(68,216,0)" />
+<circle cx="1922.94" cy="567" r="2.5" fill="black" />
+<ellipse cx="694.421" cy="582" rx="12" ry="33" fill="rgb(230,109,0)" />
+<polygon points=" 685.421,582 679.421,623.25 679.421,540.75" style="fill:rgb(230,109,0)" />
+<circle cx="704.021" cy="582" r="0.6" fill="black" />
+<ellipse cx="1937.27" cy="601" rx="59" ry="11" fill="rgb(228,155,0)" />
+<polygon points=" 1893.02,601 1863.52,614.75 1863.52,587.25" style="fill:rgb(228,155,0)" />
+<circle cx="1984.47" cy="601" r="2.95" fill="black" />
+<ellipse cx="976.038" cy="607" rx="12" ry="45" fill="rgb(212,213,0)" />
+<polygon points=" 985.038,607 991.038,663.25 991.038,550.75" style="fill:rgb(212,213,0)" />
+<circle cx="966.438" cy="607" r="0.6" fill="black" />
+<ellipse cx="1206.78" cy="623" rx="49" ry="25" fill="rgb(135,68,0)" />
+<polygon points=" 1170.03,623 1145.53,654.25 1145.53,591.75" style="fill:rgb(135,68,0)" />
+<circle cx="1245.98" cy="623" r="2.45" fill="black" />
+<ellipse cx="871.781" cy="659" rx="22" ry="11" fill="rgb(32,118,0)" />
+<polygon points=" 888.281,659 899.281,672.75 899.281,645.25" style="fill:rgb(32,118,0)" />
+<circle cx="854.181" cy="659" r="1.1" fill="black" />
+<ellipse cx="1310.8" cy="662" rx="37" ry="42" fill="rgb(12,63,0)" />
+<polygon points=" 1338.55,662 1357.05,714.5 1357.05,609.5" style="fill:rgb(12,63,0)" />
+<circle cx="1281.2" cy="662" r="1.85" fill="black" />
+<ellipse cx="1783.61" cy="667" rx="39" ry="39" fill="rgb(67,61,0)" />
+<polygon points=" 1754.36,667 1734.86,715.75 1734.86,618.25" style="fill:rgb(67,61,0)" />
+<circle cx="1814.81" cy="667" r="1.95" fill="black" />
+<ellipse cx="299.205" cy="685" rx="59" ry="50" fill="rgb(118,53,0)" />
+<polygon points=" 254.955,685 225.455,747.5 225.455,622.5" style="fill:rgb(118,53,0)" />
+<circle cx="346.405" cy="685" r="2.95" fill="black" />
+<ellipse cx="1386.53" cy="695" rx="20" ry="33" fill="rgb(24,239,0)" />
+<polygon points=" 1371.53,695 1361.53,736.25 1361.53,653.75" style="fill:rgb(24,239,0)" />
+<circle cx="1402.53" cy="695" r="1" fill="black" />
+<ellipse cx="302.108" cy="725" rx="34" ry="17" fill="rgb(11,54,0)" />
+<polygon points=" 327.608,725 344.608,746.25 344.608,703.75" style="fill:rgb(11,54,0)" />
+<circle cx="274.908" cy="725" r="1.7" fill="black" />
+<ellipse cx="1004.34" cy="792" rx="60" ry="15" fill="rgb(184,47,0)" />
+<polygon points=" 959.339,792 929.339,810.75 929.339,773.25" style="fill:rgb(184,47,0)" />
+<circle cx="1052.34" cy="792" r="3" fill="black" />
+
+
+</svg>
